@@ -1,0 +1,9 @@
+# Arquivos compilados do Maven
+target/
+
+# Arquivos de configuração do IntelliJ IDEA
+.idea/
+*.iml
+
+# Outros
+*.log
